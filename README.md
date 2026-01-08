@@ -1,2 +1,2 @@
 # DSA---using C
-Data Structures and Algorithms solved using C
+Data Structures and Algorithms  using C
