@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int n, i;
-    int arr[100];
-    int min;
+    int n, i , arr[100] , min ;
+    
 
     printf("Enter number of elements: ");
     scanf("%d", &n);
