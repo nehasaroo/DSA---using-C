@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX 5
+#define MAX 100
 
 int queue[MAX];
 int front = -1, rear = -1;
